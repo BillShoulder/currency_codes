@@ -14,8 +14,6 @@ from functools import cached_property
 import json
 import typing
 
-from requests.structures import CaseInsensitiveDict
-
 
 ###############################################################################################################################################################
 #
@@ -72,8 +70,8 @@ class FxCodes:
         return set(entry[self.JSON_COUNTRY] for entry in self.json_data)
 
     @cached_property
-    def currency_to_currency_iso_map(self) -> CaseInsensitiveDict:
-        """ A case insensitive map of currency names to currency ISOs. """
+    def currency_to_currency_iso_map(self) -> dict[str, str]:
+        """ A map of uppercase currency names to currency ISOs. """
         return {entry[self.JSON_CURRENCY].upper(): entry[self.JSON_CURRENCY_ISO] for entry in self.json_data}
 
     @cached_property
