@@ -1,0 +1,1999 @@
+[
+    {
+        "AlphabeticCode": "AFN",
+        "Currency": "Afghani",
+        "Entity": "AF",
+        "MinorUnit": "2",
+        "NumericCode": 971.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "AX",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "ALL",
+        "Currency": "Lek",
+        "Entity": "AL",
+        "MinorUnit": "2",
+        "NumericCode": 8.0
+    },
+    {
+        "AlphabeticCode": "DZD",
+        "Currency": "Algerian Dinar",
+        "Entity": "DZ",
+        "MinorUnit": "2",
+        "NumericCode": 12.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "AS",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "AD",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "AOA",
+        "Currency": "Kwanza",
+        "Entity": "AO",
+        "MinorUnit": "2",
+        "NumericCode": 973.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "AI",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "AG",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "ARS",
+        "Currency": "Argentine Peso",
+        "Entity": "AR",
+        "MinorUnit": "2",
+        "NumericCode": 32.0
+    },
+    {
+        "AlphabeticCode": "AMD",
+        "Currency": "Armenian Dram",
+        "Entity": "AM",
+        "MinorUnit": "2",
+        "NumericCode": 51.0
+    },
+    {
+        "AlphabeticCode": "AWG",
+        "Currency": "Aruban Florin",
+        "Entity": "AW",
+        "MinorUnit": "2",
+        "NumericCode": 533.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "AU",
+        "MinorUnit": "2",
+        "NumericCode": 36.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "AT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "AZN",
+        "Currency": "Azerbaijan Manat",
+        "Entity": "AZ",
+        "MinorUnit": "2",
+        "NumericCode": 944.0
+    },
+    {
+        "AlphabeticCode": "BSD",
+        "Currency": "Bahamian Dollar",
+        "Entity": "BS",
+        "MinorUnit": "2",
+        "NumericCode": 44.0
+    },
+    {
+        "AlphabeticCode": "BHD",
+        "Currency": "Bahraini Dinar",
+        "Entity": "BH",
+        "MinorUnit": "3",
+        "NumericCode": 48.0
+    },
+    {
+        "AlphabeticCode": "BDT",
+        "Currency": "Taka",
+        "Entity": "BD",
+        "MinorUnit": "2",
+        "NumericCode": 50.0
+    },
+    {
+        "AlphabeticCode": "BBD",
+        "Currency": "Barbados Dollar",
+        "Entity": "BB",
+        "MinorUnit": "2",
+        "NumericCode": 52.0
+    },
+    {
+        "AlphabeticCode": "BYN",
+        "Currency": "Belarusian Ruble",
+        "Entity": "BY",
+        "MinorUnit": "2",
+        "NumericCode": 933.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "BE",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "BZD",
+        "Currency": "Belize Dollar",
+        "Entity": "BZ",
+        "MinorUnit": "2",
+        "NumericCode": 84.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "BJ",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "BMD",
+        "Currency": "Bermudian Dollar",
+        "Entity": "BM",
+        "MinorUnit": "2",
+        "NumericCode": 60.0
+    },
+    {
+        "AlphabeticCode": "INR",
+        "Currency": "Indian Rupee",
+        "Entity": "BT",
+        "MinorUnit": "2",
+        "NumericCode": 356.0
+    },
+    {
+        "AlphabeticCode": "BTN",
+        "Currency": "Ngultrum",
+        "Entity": "BT",
+        "MinorUnit": "2",
+        "NumericCode": 64.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "BOB",
+        "Currency": "Boliviano",
+        "Entity": "BO",
+        "MinorUnit": "2",
+        "NumericCode": 68.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "BOV",
+        "Currency": "Mvdol",
+        "Entity": "BO",
+        "MinorUnit": "2",
+        "NumericCode": 984.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "BQ",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "BAM",
+        "Currency": "Convertible Mark",
+        "Entity": "BA",
+        "MinorUnit": "2",
+        "NumericCode": 977.0
+    },
+    {
+        "AlphabeticCode": "BWP",
+        "Currency": "Pula",
+        "Entity": "BW",
+        "MinorUnit": "2",
+        "NumericCode": 72.0
+    },
+    {
+        "AlphabeticCode": "NOK",
+        "Currency": "Norwegian Krone",
+        "Entity": "BV",
+        "MinorUnit": "2",
+        "NumericCode": 578.0
+    },
+    {
+        "AlphabeticCode": "BRL",
+        "Currency": "Brazilian Real",
+        "Entity": "BR",
+        "MinorUnit": "2",
+        "NumericCode": 986.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "IO",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "BND",
+        "Currency": "Brunei Dollar",
+        "Entity": "BN",
+        "MinorUnit": "2",
+        "NumericCode": 96.0
+    },
+    {
+        "AlphabeticCode": "BGN",
+        "Currency": "Bulgarian Lev",
+        "Entity": "BG",
+        "MinorUnit": "2",
+        "NumericCode": 975.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "BF",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "BIF",
+        "Currency": "Burundi Franc",
+        "Entity": "BI",
+        "MinorUnit": "0",
+        "NumericCode": 108.0
+    },
+    {
+        "AlphabeticCode": "CVE",
+        "Currency": "Cabo Verde Escudo",
+        "Entity": "CV",
+        "MinorUnit": "2",
+        "NumericCode": 132.0
+    },
+    {
+        "AlphabeticCode": "KHR",
+        "Currency": "Riel",
+        "Entity": "KH",
+        "MinorUnit": "2",
+        "NumericCode": 116.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "CM",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "Central African States",
+        "MinorUnit": "0",
+        "NumericCode": 950.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "CAD",
+        "Currency": "Canadian Dollar",
+        "Entity": "CA",
+        "MinorUnit": "2",
+        "NumericCode": 124.0
+    },
+    {
+        "AlphabeticCode": "KYD",
+        "Currency": "Cayman Islands Dollar",
+        "Entity": "KY",
+        "MinorUnit": "2",
+        "NumericCode": 136.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "CF",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "TD",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "CLP",
+        "Currency": "Chilean Peso",
+        "Entity": "CL",
+        "MinorUnit": "0",
+        "NumericCode": 152.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "CLF",
+        "Currency": "Unidad de Fomento",
+        "Entity": "CL",
+        "MinorUnit": "4",
+        "NumericCode": 990.0
+    },
+    {
+        "AlphabeticCode": "CNY",
+        "Currency": "Yuan Renminbi",
+        "Entity": "CN",
+        "MinorUnit": "2",
+        "NumericCode": 156.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "CX",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "CC",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "COP",
+        "Currency": "Colombian Peso",
+        "Entity": "CO",
+        "MinorUnit": "2",
+        "NumericCode": 170.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "COU",
+        "Currency": "Unidad de Valor Real",
+        "Entity": "CO",
+        "MinorUnit": "2",
+        "NumericCode": 970.0
+    },
+    {
+        "AlphabeticCode": "KMF",
+        "Currency": "Comorian Franc",
+        "Entity": "KM",
+        "MinorUnit": "0",
+        "NumericCode": 174.0
+    },
+    {
+        "AlphabeticCode": "CDF",
+        "Currency": "Congolese Franc",
+        "Entity": "CD",
+        "MinorUnit": "2",
+        "NumericCode": 976.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "CG",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "NZD",
+        "Currency": "New Zealand Dollar",
+        "Entity": "CK",
+        "MinorUnit": "2",
+        "NumericCode": 554.0
+    },
+    {
+        "AlphabeticCode": "CRC",
+        "Currency": "Costa Rican Colon",
+        "Entity": "CR",
+        "MinorUnit": "2",
+        "NumericCode": 188.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "CI",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "HRK",
+        "Currency": "Kuna",
+        "Entity": "HR",
+        "MinorUnit": "2",
+        "NumericCode": 191.0
+    },
+    {
+        "AlphabeticCode": "CUP",
+        "Currency": "Cuban Peso",
+        "Entity": "CU",
+        "MinorUnit": "2",
+        "NumericCode": 192.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "CUC",
+        "Currency": "Peso Convertible",
+        "Entity": "CU",
+        "MinorUnit": "2",
+        "NumericCode": 931.0
+    },
+    {
+        "AlphabeticCode": "ANG",
+        "Currency": "Netherlands Antillean Guilder",
+        "Entity": "CW",
+        "MinorUnit": "2",
+        "NumericCode": 532.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "CY",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "CZK",
+        "Currency": "Czech Koruna",
+        "Entity": "CZ",
+        "MinorUnit": "2",
+        "NumericCode": 203.0
+    },
+    {
+        "AlphabeticCode": "DKK",
+        "Currency": "Danish Krone",
+        "Entity": "DK",
+        "MinorUnit": "2",
+        "NumericCode": 208.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "DJF",
+        "Currency": "Djibouti Franc",
+        "Entity": "DJ",
+        "MinorUnit": "0",
+        "NumericCode": 262.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "DM",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "Organisation of Eastern Caribbean States",
+        "MinorUnit": "2",
+        "NumericCode": 951.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "DOP",
+        "Currency": "Dominican Peso",
+        "Entity": "DO",
+        "MinorUnit": "2",
+        "NumericCode": 214.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "EC",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "EGP",
+        "Currency": "Egyptian Pound",
+        "Entity": "EG",
+        "MinorUnit": "2",
+        "NumericCode": 818.0
+    },
+    {
+        "AlphabeticCode": "SVC",
+        "Currency": "El Salvador Colon",
+        "Entity": "SV",
+        "MinorUnit": "2",
+        "NumericCode": 222.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "SV",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "GQ",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "ERN",
+        "Currency": "Nakfa",
+        "Entity": "ER",
+        "MinorUnit": "2",
+        "NumericCode": 232.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "EE",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "SZL",
+        "Currency": "Lilangeni",
+        "Entity": "SZ",
+        "MinorUnit": "2",
+        "NumericCode": 748.0
+    },
+    {
+        "AlphabeticCode": "ETB",
+        "Currency": "Ethiopian Birr",
+        "Entity": "ET",
+        "MinorUnit": "2",
+        "NumericCode": 230.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "EU",
+        "MinorUnit": "2",
+        "NumericCode": 978.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "FKP",
+        "Currency": "Falkland Islands Pound",
+        "Entity": "FK",
+        "MinorUnit": "2",
+        "NumericCode": 238.0
+    },
+    {
+        "AlphabeticCode": "DKK",
+        "Currency": "Danish Krone",
+        "Entity": "FO",
+        "MinorUnit": "2",
+        "NumericCode": 208.0
+    },
+    {
+        "AlphabeticCode": "FJD",
+        "Currency": "Fiji Dollar",
+        "Entity": "FJ",
+        "MinorUnit": "2",
+        "NumericCode": 242.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "FI",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "FR",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "GF",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XPF",
+        "Currency": "CFP Franc",
+        "Entity": "PF",
+        "MinorUnit": "0",
+        "NumericCode": 953.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "TF",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XAF",
+        "Currency": "CFA Franc BEAC",
+        "Entity": "GA",
+        "MinorUnit": "0",
+        "NumericCode": 950.0
+    },
+    {
+        "AlphabeticCode": "GMD",
+        "Currency": "Dalasi",
+        "Entity": "GM",
+        "MinorUnit": "2",
+        "NumericCode": 270.0
+    },
+    {
+        "AlphabeticCode": "GEL",
+        "Currency": "Lari",
+        "Entity": "GE",
+        "MinorUnit": "2",
+        "NumericCode": 981.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "DE",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "GHS",
+        "Currency": "Ghana Cedi",
+        "Entity": "GH",
+        "MinorUnit": "2",
+        "NumericCode": 936.0
+    },
+    {
+        "AlphabeticCode": "GIP",
+        "Currency": "Gibraltar Pound",
+        "Entity": "GI",
+        "MinorUnit": "2",
+        "NumericCode": 292.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "GR",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "DKK",
+        "Currency": "Danish Krone",
+        "Entity": "GL",
+        "MinorUnit": "2",
+        "NumericCode": 208.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "GD",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "GP",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "GU",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "GTQ",
+        "Currency": "Quetzal",
+        "Entity": "GT",
+        "MinorUnit": "2",
+        "NumericCode": 320.0
+    },
+    {
+        "AlphabeticCode": "GBP",
+        "Currency": "Pound Sterling",
+        "Entity": "GG",
+        "MinorUnit": "2",
+        "NumericCode": 826.0
+    },
+    {
+        "AlphabeticCode": "GNF",
+        "Currency": "Guinean Franc",
+        "Entity": "GN",
+        "MinorUnit": "0",
+        "NumericCode": 324.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "GW",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "GYD",
+        "Currency": "Guyana Dollar",
+        "Entity": "GY",
+        "MinorUnit": "2",
+        "NumericCode": 328.0
+    },
+    {
+        "AlphabeticCode": "HTG",
+        "Currency": "Gourde",
+        "Entity": "HT",
+        "MinorUnit": "2",
+        "NumericCode": 332.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "HT",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "HM",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "VA",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "HNL",
+        "Currency": "Lempira",
+        "Entity": "HN",
+        "MinorUnit": "2",
+        "NumericCode": 340.0
+    },
+    {
+        "AlphabeticCode": "HKD",
+        "Currency": "Hong Kong Dollar",
+        "Entity": "HK",
+        "MinorUnit": "2",
+        "NumericCode": 344.0
+    },
+    {
+        "AlphabeticCode": "HUF",
+        "Currency": "Forint",
+        "Entity": "HU",
+        "MinorUnit": "2",
+        "NumericCode": 348.0
+    },
+    {
+        "AlphabeticCode": "ISK",
+        "Currency": "Iceland Krona",
+        "Entity": "IS",
+        "MinorUnit": "0",
+        "NumericCode": 352.0
+    },
+    {
+        "AlphabeticCode": "INR",
+        "Currency": "Indian Rupee",
+        "Entity": "IN",
+        "MinorUnit": "2",
+        "NumericCode": 356.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "IDR",
+        "Currency": "Rupiah",
+        "Entity": "ID",
+        "MinorUnit": "2",
+        "NumericCode": 360.0
+    },
+    {
+        "AlphabeticCode": "XDR",
+        "Currency": "SDR (Special Drawing Right)",
+        "Entity": "International Monetary Fund (IMF)",
+        "MinorUnit": "-",
+        "NumericCode": 960.0
+    },
+    {
+        "AlphabeticCode": "IRR",
+        "Currency": "Iranian Rial",
+        "Entity": "IR",
+        "MinorUnit": "2",
+        "NumericCode": 364.0
+    },
+    {
+        "AlphabeticCode": "IQD",
+        "Currency": "Iraqi Dinar",
+        "Entity": "IQ",
+        "MinorUnit": "3",
+        "NumericCode": 368.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "IE",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "GBP",
+        "Currency": "Pound Sterling",
+        "Entity": "IM",
+        "MinorUnit": "2",
+        "NumericCode": 826.0
+    },
+    {
+        "AlphabeticCode": "ILS",
+        "Currency": "New Israeli Sheqel",
+        "Entity": "IL",
+        "MinorUnit": "2",
+        "NumericCode": 376.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "IT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "JMD",
+        "Currency": "Jamaican Dollar",
+        "Entity": "JM",
+        "MinorUnit": "2",
+        "NumericCode": 388.0
+    },
+    {
+        "AlphabeticCode": "JPY",
+        "Currency": "Yen",
+        "Entity": "JP",
+        "MinorUnit": "0",
+        "NumericCode": 392.0
+    },
+    {
+        "AlphabeticCode": "GBP",
+        "Currency": "Pound Sterling",
+        "Entity": "JE",
+        "MinorUnit": "2",
+        "NumericCode": 826.0
+    },
+    {
+        "AlphabeticCode": "JOD",
+        "Currency": "Jordanian Dinar",
+        "Entity": "JO",
+        "MinorUnit": "3",
+        "NumericCode": 400.0
+    },
+    {
+        "AlphabeticCode": "KZT",
+        "Currency": "Tenge",
+        "Entity": "KZ",
+        "MinorUnit": "2",
+        "NumericCode": 398.0
+    },
+    {
+        "AlphabeticCode": "KES",
+        "Currency": "Kenyan Shilling",
+        "Entity": "KE",
+        "MinorUnit": "2",
+        "NumericCode": 404.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "KI",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "KPW",
+        "Currency": "North Korean Won",
+        "Entity": "KP",
+        "MinorUnit": "2",
+        "NumericCode": 408.0
+    },
+    {
+        "AlphabeticCode": "KRW",
+        "Currency": "Won",
+        "Entity": "KR",
+        "MinorUnit": "0",
+        "NumericCode": 410.0
+    },
+    {
+        "AlphabeticCode": "KWD",
+        "Currency": "Kuwaiti Dinar",
+        "Entity": "KW",
+        "MinorUnit": "3",
+        "NumericCode": 414.0
+    },
+    {
+        "AlphabeticCode": "KGS",
+        "Currency": "Som",
+        "Entity": "KG",
+        "MinorUnit": "2",
+        "NumericCode": 417.0
+    },
+    {
+        "AlphabeticCode": "LAK",
+        "Currency": "Lao Kip",
+        "Entity": "LA",
+        "MinorUnit": "2",
+        "NumericCode": 418.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "LV",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "LBP",
+        "Currency": "Lebanese Pound",
+        "Entity": "LB",
+        "MinorUnit": "2",
+        "NumericCode": 422.0
+    },
+    {
+        "AlphabeticCode": "LSL",
+        "Currency": "Loti",
+        "Entity": "LS",
+        "MinorUnit": "2",
+        "NumericCode": 426.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "ZAR",
+        "Currency": "Rand",
+        "Entity": "LS",
+        "MinorUnit": "2",
+        "NumericCode": 710.0
+    },
+    {
+        "AlphabeticCode": "LRD",
+        "Currency": "Liberian Dollar",
+        "Entity": "LR",
+        "MinorUnit": "2",
+        "NumericCode": 430.0
+    },
+    {
+        "AlphabeticCode": "LYD",
+        "Currency": "Libyan Dinar",
+        "Entity": "LY",
+        "MinorUnit": "3",
+        "NumericCode": 434.0
+    },
+    {
+        "AlphabeticCode": "CHF",
+        "Currency": "Swiss Franc",
+        "Entity": "LI",
+        "MinorUnit": "2",
+        "NumericCode": 756.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "LT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "LU",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "MOP",
+        "Currency": "Pataca",
+        "Entity": "MO",
+        "MinorUnit": "2",
+        "NumericCode": 446.0
+    },
+    {
+        "AlphabeticCode": "MKD",
+        "Currency": "Denar",
+        "Entity": "MK",
+        "MinorUnit": "2",
+        "NumericCode": 807.0
+    },
+    {
+        "AlphabeticCode": "MGA",
+        "Currency": "Malagasy Ariary",
+        "Entity": "MG",
+        "MinorUnit": "2",
+        "NumericCode": 969.0
+    },
+    {
+        "AlphabeticCode": "MWK",
+        "Currency": "Malawi Kwacha",
+        "Entity": "MW",
+        "MinorUnit": "2",
+        "NumericCode": 454.0
+    },
+    {
+        "AlphabeticCode": "MYR",
+        "Currency": "Malaysian Ringgit",
+        "Entity": "MY",
+        "MinorUnit": "2",
+        "NumericCode": 458.0
+    },
+    {
+        "AlphabeticCode": "MVR",
+        "Currency": "Rufiyaa",
+        "Entity": "MV",
+        "MinorUnit": "2",
+        "NumericCode": 462.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "ML",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "MT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "MH",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "MQ",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "MRU",
+        "Currency": "Ouguiya",
+        "Entity": "MR",
+        "MinorUnit": "2",
+        "NumericCode": 929.0
+    },
+    {
+        "AlphabeticCode": "MUR",
+        "Currency": "Mauritius Rupee",
+        "Entity": "MU",
+        "MinorUnit": "2",
+        "NumericCode": 480.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "YT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XUA",
+        "Currency": "ADB Unit of Account",
+        "Entity": "Member Countries of the African Development Bank Group",
+        "MinorUnit": "-",
+        "NumericCode": 965.0
+    },
+    {
+        "AlphabeticCode": "MXN",
+        "Currency": "Mexican Peso",
+        "Entity": "MX",
+        "MinorUnit": "2",
+        "NumericCode": 484.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "MXV",
+        "Currency": "Mexican Unidad de Inversion (UDI)",
+        "Entity": "MX",
+        "MinorUnit": "2",
+        "NumericCode": 979.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "FM",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "MDL",
+        "Currency": "Moldovan Leu",
+        "Entity": "MD",
+        "MinorUnit": "2",
+        "NumericCode": 498.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "MC",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "MNT",
+        "Currency": "Tugrik",
+        "Entity": "MN",
+        "MinorUnit": "2",
+        "NumericCode": 496.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "ME",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "MS",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "MAD",
+        "Currency": "Moroccan Dirham",
+        "Entity": "MA",
+        "MinorUnit": "2",
+        "NumericCode": 504.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "MZN",
+        "Currency": "Mozambique Metical",
+        "Entity": "MZ",
+        "MinorUnit": "2",
+        "NumericCode": 943.0
+    },
+    {
+        "AlphabeticCode": "MMK",
+        "Currency": "Kyat",
+        "Entity": "MM",
+        "MinorUnit": "2",
+        "NumericCode": 104.0
+    },
+    {
+        "AlphabeticCode": "NAD",
+        "Currency": "Namibia Dollar",
+        "Entity": "NA",
+        "MinorUnit": "2",
+        "NumericCode": 516.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "ZAR",
+        "Currency": "Rand",
+        "Entity": "NA",
+        "MinorUnit": "2",
+        "NumericCode": 710.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "NR",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "NPR",
+        "Currency": "Nepalese Rupee",
+        "Entity": "NP",
+        "MinorUnit": "2",
+        "NumericCode": 524.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "NL",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XPF",
+        "Currency": "CFP Franc",
+        "Entity": "NC",
+        "MinorUnit": "0",
+        "NumericCode": 953.0
+    },
+    {
+        "AlphabeticCode": "NZD",
+        "Currency": "New Zealand Dollar",
+        "Entity": "NZ",
+        "MinorUnit": "2",
+        "NumericCode": 554.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "NIO",
+        "Currency": "Cordoba Oro",
+        "Entity": "NI",
+        "MinorUnit": "2",
+        "NumericCode": 558.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "NE",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "NGN",
+        "Currency": "Naira",
+        "Entity": "NG",
+        "MinorUnit": "2",
+        "NumericCode": 566.0
+    },
+    {
+        "AlphabeticCode": "NZD",
+        "Currency": "New Zealand Dollar",
+        "Entity": "NU",
+        "MinorUnit": "2",
+        "NumericCode": 554.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "NF",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "MP",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "NOK",
+        "Currency": "Norwegian Krone",
+        "Entity": "NO",
+        "MinorUnit": "2",
+        "NumericCode": 578.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "OMR",
+        "Currency": "Rial Omani",
+        "Entity": "OM",
+        "MinorUnit": "3",
+        "NumericCode": 512.0
+    },
+    {
+        "AlphabeticCode": "PKR",
+        "Currency": "Pakistan Rupee",
+        "Entity": "PK",
+        "MinorUnit": "2",
+        "NumericCode": 586.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "PW",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "PAB",
+        "Currency": "Balboa",
+        "Entity": "PA",
+        "MinorUnit": "2",
+        "NumericCode": 590.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "PA",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "PGK",
+        "Currency": "Kina",
+        "Entity": "PG",
+        "MinorUnit": "2",
+        "NumericCode": 598.0
+    },
+    {
+        "AlphabeticCode": "PYG",
+        "Currency": "Guarani",
+        "Entity": "PY",
+        "MinorUnit": "0",
+        "NumericCode": 600.0
+    },
+    {
+        "AlphabeticCode": "PEN",
+        "Currency": "Sol",
+        "Entity": "PE",
+        "MinorUnit": "2",
+        "NumericCode": 604.0
+    },
+    {
+        "AlphabeticCode": "PHP",
+        "Currency": "Philippine Peso",
+        "Entity": "PH",
+        "MinorUnit": "2",
+        "NumericCode": 608.0
+    },
+    {
+        "AlphabeticCode": "NZD",
+        "Currency": "New Zealand Dollar",
+        "Entity": "PN",
+        "MinorUnit": "2",
+        "NumericCode": 554.0
+    },
+    {
+        "AlphabeticCode": "PLN",
+        "Currency": "Zloty",
+        "Entity": "PL",
+        "MinorUnit": "2",
+        "NumericCode": 985.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "PT",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "PR",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "QAR",
+        "Currency": "Qatari Rial",
+        "Entity": "QA",
+        "MinorUnit": "2",
+        "NumericCode": 634.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "RE",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "RON",
+        "Currency": "Romanian Leu",
+        "Entity": "RO",
+        "MinorUnit": "2",
+        "NumericCode": 946.0
+    },
+    {
+        "AlphabeticCode": "RUB",
+        "Currency": "Russian Ruble",
+        "Entity": "RU",
+        "MinorUnit": "2",
+        "NumericCode": 643.0
+    },
+    {
+        "AlphabeticCode": "RWF",
+        "Currency": "Rwanda Franc",
+        "Entity": "RW",
+        "MinorUnit": "0",
+        "NumericCode": 646.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "BL",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "SHP",
+        "Currency": "Saint Helena Pound",
+        "Entity": "SH",
+        "MinorUnit": "2",
+        "NumericCode": 654.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "KN",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "LC",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "MF",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "PM",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "XCD",
+        "Currency": "East Caribbean Dollar",
+        "Entity": "VC",
+        "MinorUnit": "2",
+        "NumericCode": 951.0
+    },
+    {
+        "AlphabeticCode": "WST",
+        "Currency": "Tala",
+        "Entity": "WS",
+        "MinorUnit": "2",
+        "NumericCode": 882.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "SM",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "STN",
+        "Currency": "Dobra",
+        "Entity": "ST",
+        "MinorUnit": "2",
+        "NumericCode": 930.0
+    },
+    {
+        "AlphabeticCode": "SAR",
+        "Currency": "Saudi Riyal",
+        "Entity": "SA",
+        "MinorUnit": "2",
+        "NumericCode": 682.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "SN",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "RSD",
+        "Currency": "Serbian Dinar",
+        "Entity": "RS",
+        "MinorUnit": "2",
+        "NumericCode": 941.0
+    },
+    {
+        "AlphabeticCode": "SCR",
+        "Currency": "Seychelles Rupee",
+        "Entity": "SC",
+        "MinorUnit": "2",
+        "NumericCode": 690.0
+    },
+    {
+        "AlphabeticCode": "SLL",
+        "Currency": "Leone",
+        "Entity": "SL",
+        "MinorUnit": "2",
+        "NumericCode": 694.0
+    },
+    {
+        "AlphabeticCode": "SGD",
+        "Currency": "Singapore Dollar",
+        "Entity": "SG",
+        "MinorUnit": "2",
+        "NumericCode": 702.0
+    },
+    {
+        "AlphabeticCode": "ANG",
+        "Currency": "Netherlands Antillean Guilder",
+        "Entity": "SX",
+        "MinorUnit": "2",
+        "NumericCode": 532.0
+    },
+    {
+        "AlphabeticCode": "ANG",
+        "Currency": "Netherlands Antillean Guilder",
+        "Entity": "Netherlands Antilles",
+        "MinorUnit": "2",
+        "NumericCode": 532.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "XSU",
+        "Currency": "Sucre",
+        "Entity": "Sistema Unitario de Compensacion Regional de Pagos \"Sucre\"",
+        "MinorUnit": "-",
+        "NumericCode": 994.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "SK",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "SI",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "SBD",
+        "Currency": "Solomon Islands Dollar",
+        "Entity": "SB",
+        "MinorUnit": "2",
+        "NumericCode": 90.0
+    },
+    {
+        "AlphabeticCode": "SOS",
+        "Currency": "Somali Shilling",
+        "Entity": "SO",
+        "MinorUnit": "2",
+        "NumericCode": 706.0
+    },
+    {
+        "AlphabeticCode": "ZAR",
+        "Currency": "Rand",
+        "Entity": "ZA",
+        "MinorUnit": "2",
+        "NumericCode": 710.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "SSP",
+        "Currency": "South Sudanese Pound",
+        "Entity": "SS",
+        "MinorUnit": "2",
+        "NumericCode": 728.0
+    },
+    {
+        "AlphabeticCode": "EUR",
+        "Currency": "Euro",
+        "Entity": "ES",
+        "MinorUnit": "2",
+        "NumericCode": 978.0
+    },
+    {
+        "AlphabeticCode": "LKR",
+        "Currency": "Sri Lanka Rupee",
+        "Entity": "LK",
+        "MinorUnit": "2",
+        "NumericCode": 144.0
+    },
+    {
+        "AlphabeticCode": "SDG",
+        "Currency": "Sudanese Pound",
+        "Entity": "SD",
+        "MinorUnit": "2",
+        "NumericCode": 938.0
+    },
+    {
+        "AlphabeticCode": "SRD",
+        "Currency": "Surinam Dollar",
+        "Entity": "SR",
+        "MinorUnit": "2",
+        "NumericCode": 968.0
+    },
+    {
+        "AlphabeticCode": "NOK",
+        "Currency": "Norwegian Krone",
+        "Entity": "SJ",
+        "MinorUnit": "2",
+        "NumericCode": 578.0
+    },
+    {
+        "AlphabeticCode": "SEK",
+        "Currency": "Swedish Krona",
+        "Entity": "SE",
+        "MinorUnit": "2",
+        "NumericCode": 752.0
+    },
+    {
+        "AlphabeticCode": "CHF",
+        "Currency": "Swiss Franc",
+        "Entity": "CH",
+        "MinorUnit": "2",
+        "NumericCode": 756.0,
+        "Owner": true,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "CHE",
+        "Currency": "WIR Euro",
+        "Entity": "CH",
+        "MinorUnit": "2",
+        "NumericCode": 947.0
+    },
+    {
+        "AlphabeticCode": "CHW",
+        "Currency": "WIR Franc",
+        "Entity": "CH",
+        "MinorUnit": "2",
+        "NumericCode": 948.0
+    },
+    {
+        "AlphabeticCode": "SYP",
+        "Currency": "Syrian Pound",
+        "Entity": "SY",
+        "MinorUnit": "2",
+        "NumericCode": 760.0
+    },
+    {
+        "AlphabeticCode": "TWD",
+        "Currency": "New Taiwan Dollar",
+        "Entity": "TW",
+        "MinorUnit": "2",
+        "NumericCode": 901.0
+    },
+    {
+        "AlphabeticCode": "TJS",
+        "Currency": "Somoni",
+        "Entity": "TJ",
+        "MinorUnit": "2",
+        "NumericCode": 972.0
+    },
+    {
+        "AlphabeticCode": "TZS",
+        "Currency": "Tanzanian Shilling",
+        "Entity": "TZ",
+        "MinorUnit": "2",
+        "NumericCode": 834.0
+    },
+    {
+        "AlphabeticCode": "THB",
+        "Currency": "Baht",
+        "Entity": "TH",
+        "MinorUnit": "2",
+        "NumericCode": 764.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "TL",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "TG",
+        "MinorUnit": "0",
+        "NumericCode": 952.0
+    },
+    {
+        "AlphabeticCode": "XOF",
+        "Currency": "CFA Franc BCEAO",
+        "Entity": "West Africa",
+        "MinorUnit": "0",
+        "NumericCode": 952.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "NZD",
+        "Currency": "New Zealand Dollar",
+        "Entity": "TK",
+        "MinorUnit": "2",
+        "NumericCode": 554.0
+    },
+    {
+        "AlphabeticCode": "TOP",
+        "Currency": "Pa'anga",
+        "Entity": "TO",
+        "MinorUnit": "2",
+        "NumericCode": 776.0
+    },
+    {
+        "AlphabeticCode": "TTD",
+        "Currency": "Trinidad and Tobago Dollar",
+        "Entity": "TT",
+        "MinorUnit": "2",
+        "NumericCode": 780.0
+    },
+    {
+        "AlphabeticCode": "TND",
+        "Currency": "Tunisian Dinar",
+        "Entity": "TN",
+        "MinorUnit": "3",
+        "NumericCode": 788.0
+    },
+    {
+        "AlphabeticCode": "TRY",
+        "Currency": "Turkish Lira",
+        "Entity": "TR",
+        "MinorUnit": "2",
+        "NumericCode": 949.0
+    },
+    {
+        "AlphabeticCode": "TMT",
+        "Currency": "Turkmenistan New Manat",
+        "Entity": "TM",
+        "MinorUnit": "2",
+        "NumericCode": 934.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "TC",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "AUD",
+        "Currency": "Australian Dollar",
+        "Entity": "TV",
+        "MinorUnit": "2",
+        "NumericCode": 36.0
+    },
+    {
+        "AlphabeticCode": "UGX",
+        "Currency": "Uganda Shilling",
+        "Entity": "UG",
+        "MinorUnit": "0",
+        "NumericCode": 800.0
+    },
+    {
+        "AlphabeticCode": "UAH",
+        "Currency": "Hryvnia",
+        "Entity": "UA",
+        "MinorUnit": "2",
+        "NumericCode": 980.0
+    },
+    {
+        "AlphabeticCode": "AED",
+        "Currency": "UAE Dirham",
+        "Entity": "AE",
+        "MinorUnit": "2",
+        "NumericCode": 784.0
+    },
+    {
+        "AlphabeticCode": "GBP",
+        "Currency": "Pound Sterling",
+        "Entity": "GB",
+        "MinorUnit": "2",
+        "NumericCode": 826.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "UM",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "US",
+        "MinorUnit": "2",
+        "NumericCode": 840.0,
+        "Owner": true,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "USN",
+        "Currency": "US Dollar (Next day)",
+        "Entity": "US",
+        "MinorUnit": "2",
+        "NumericCode": 997.0
+    },
+    {
+        "AlphabeticCode": "UYU",
+        "Currency": "Peso Uruguayo",
+        "Entity": "UY",
+        "MinorUnit": "2",
+        "NumericCode": 858.0,
+        "Primary": true
+    },
+    {
+        "AlphabeticCode": "UYI",
+        "Currency": "Uruguay Peso en Unidades Indexadas (UI)",
+        "Entity": "UY",
+        "MinorUnit": "0",
+        "NumericCode": 940.0
+    },
+    {
+        "AlphabeticCode": "UYW",
+        "Currency": "Unidad Previsional",
+        "Entity": "UY",
+        "MinorUnit": "4",
+        "NumericCode": 927.0
+    },
+    {
+        "AlphabeticCode": "UZS",
+        "Currency": "Uzbekistan Sum",
+        "Entity": "UZ",
+        "MinorUnit": "2",
+        "NumericCode": 860.0
+    },
+    {
+        "AlphabeticCode": "VUV",
+        "Currency": "Vatu",
+        "Entity": "VU",
+        "MinorUnit": "0",
+        "NumericCode": 548.0
+    },
+    {
+        "AlphabeticCode": "VES",
+        "Currency": "Bol\u00edvar Soberano",
+        "Entity": "VE",
+        "MinorUnit": "2",
+        "NumericCode": 928.0
+    },
+    {
+        "AlphabeticCode": "VND",
+        "Currency": "Dong",
+        "Entity": "VN",
+        "MinorUnit": "0",
+        "NumericCode": 704.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "VG",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "USD",
+        "Currency": "US Dollar",
+        "Entity": "VI",
+        "MinorUnit": "2",
+        "NumericCode": 840.0
+    },
+    {
+        "AlphabeticCode": "XPF",
+        "Currency": "CFP Franc",
+        "Entity": "WF",
+        "MinorUnit": "0",
+        "NumericCode": 953.0
+    },
+    {
+        "AlphabeticCode": "XPF",
+        "Currency": "CFP Franc",
+        "Entity": "Change Franc Pacifique",
+        "MinorUnit": "0",
+        "NumericCode": 953.0,
+        "Owner": true
+    },
+    {
+        "AlphabeticCode": "MAD",
+        "Currency": "Moroccan Dirham",
+        "Entity": "EH",
+        "MinorUnit": "2",
+        "NumericCode": 504.0
+    },
+    {
+        "AlphabeticCode": "YER",
+        "Currency": "Yemeni Rial",
+        "Entity": "YE",
+        "MinorUnit": "2",
+        "NumericCode": 886.0
+    },
+    {
+        "AlphabeticCode": "ZMW",
+        "Currency": "Zambian Kwacha",
+        "Entity": "ZM",
+        "MinorUnit": "2",
+        "NumericCode": 967.0
+    },
+    {
+        "AlphabeticCode": "ZWL",
+        "Currency": "Zimbabwe Dollar",
+        "Entity": "ZW",
+        "MinorUnit": "2",
+        "NumericCode": 932.0
+    },
+    {
+        "AlphabeticCode": "XBA",
+        "Currency": "Bond Markets Unit European Composite Unit (EURCO)",
+        "Entity": "ZZ01_Bond Markets Unit European_EURCO",
+        "MinorUnit": "-",
+        "NumericCode": 955.0
+    },
+    {
+        "AlphabeticCode": "XBB",
+        "Currency": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+        "Entity": "ZZ02_Bond Markets Unit European_EMU-6",
+        "MinorUnit": "-",
+        "NumericCode": 956.0
+    },
+    {
+        "AlphabeticCode": "XBC",
+        "Currency": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+        "Entity": "ZZ03_Bond Markets Unit European_EUA-9",
+        "MinorUnit": "-",
+        "NumericCode": 957.0
+    },
+    {
+        "AlphabeticCode": "XBD",
+        "Currency": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+        "Entity": "ZZ04_Bond Markets Unit European_EUA-17",
+        "MinorUnit": "-",
+        "NumericCode": 958.0
+    },
+    {
+        "AlphabeticCode": "XTS",
+        "Currency": "Codes specifically reserved for testing purposes",
+        "Entity": "ZZ06_Testing_Code",
+        "MinorUnit": "-",
+        "NumericCode": 963.0
+    },
+    {
+        "AlphabeticCode": "XXX",
+        "Currency": "The codes assigned for transactions where no currency is involved",
+        "Entity": "ZZ07_No_Currency",
+        "MinorUnit": "-",
+        "NumericCode": 999.0
+    },
+    {
+        "AlphabeticCode": "XAU",
+        "Currency": "Gold",
+        "Entity": "ZZ08_Gold",
+        "MinorUnit": "-",
+        "NumericCode": 959.0
+    },
+    {
+        "AlphabeticCode": "XPD",
+        "Currency": "Palladium",
+        "Entity": "ZZ09_Palladium",
+        "MinorUnit": "-",
+        "NumericCode": 964.0
+    },
+    {
+        "AlphabeticCode": "XPT",
+        "Currency": "Platinum",
+        "Entity": "ZZ10_Platinum",
+        "MinorUnit": "-",
+        "NumericCode": 962.0
+    },
+    {
+        "AlphabeticCode": "XAG",
+        "Currency": "Silver",
+        "Entity": "ZZ11_Silver",
+        "MinorUnit": "-",
+        "NumericCode": 961.0
+    }
+]
